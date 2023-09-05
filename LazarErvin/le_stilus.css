@@ -87,7 +87,11 @@ table {
 
 .kep {
 	padding: 0px 0px;
-	border: 2px;
+	border: none;
+	width: 190px;
+	height: auto;
+	margin-left: 10px;
+	margin-right: 10px;
 	
 }
 
